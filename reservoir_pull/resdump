@@ -1,0 +1,172 @@
+   USBR Hydromet Basin Report
+
+  Boise River Basin Storage and Discharge
+ Provisional Data - Subject to Change
+
+
+brfi gh = South Fork Boise River near Featherville River Water Surface Gauge Hei
+ght, feet
+
+brfi q = South Fork Boise River near Featherville Discharge, cfs
+
+brfi wf = South Fork Boise River near Featherville Water Temperature, degF
+
+btsi gh = Boise River near Twin Springs, Idaho River Water Surface Gauge Height,
+ feet
+
+btsi q = Boise River near Twin Springs, Idaho Discharge, cfs
+
+btsi wf = Boise River near Twin Springs, Idaho Water Temperature, degF
+
+mori gh = Mores Creek above Robie Creek, ID River Water Surface Gauge Height, fe
+et
+
+mori q = Mores Creek above Robie Creek, ID Discharge, cfs
+
+
+
+ DateTime
+ brfi_gh
+ brfi_q
+ brfi_wf
+ btsi_gh
+ btsi_q
+ btsi_wf
+ mori_gh
+ mori_q
+
+ 2019-09-09 02:00 1.77 328.95 57.60 5.92 512.62 60.60 2.08 54.54
+
+ 2019-09-09 03:00 1.77 328.95 57.20 5.95 526.65 60.30 2.09 55.74
+
+ 2019-09-09 04:00 1.77 328.95 56.90 5.98 540.90 59.90 2.09 55.74
+
+ 2019-09-09 05:00 1.77 328.95 56.70 6.00 550.51 59.60 2.09 55.74
+
+ 2019-09-09 06:00 1.76 324.31 56.40 6.02 560.23 59.30 2.08 54.54
+
+ 2019-09-09 07:00 1.76 324.31 56.20 6.03 565.12 59.00 2.08 54.54
+
+ 2019-09-09 08:00 1.76 324.31 55.80 6.03 565.12 58.80 2.07 53.35
+
+ 2019-09-09 09:00 1.76 324.31 55.70 6.02 560.23 58.80 2.07 53.35
+
+ 2019-09-09 10:00 1.75 319.71 55.80 6.02 560.23 59.00 2.08 54.54
+
+ 2019-09-09 11:00 1.75 319.71 56.80 6.01 555.36 59.40 2.09 55.74
+
+ 2019-09-09 12:00 1.75 319.71 58.00 5.99 545.69 60.20 2.09 55.74
+
+
+
+  Boise River Basin Storage and Discharge
+ Provisional Data - Subject to Change
+
+
+and fb = Anderson Ranch Dam and Reservoir Reservoir Water Surface Elevation, fee
+t
+
+and af = Anderson Ranch Dam and Reservoir Reservoir Water Storage, acre-ft
+
+andi gh = South Fork Boise River at Anderson Ranch Dam River Water Surface Gauge
+ Height, feet
+
+andi q = South Fork Boise River at Anderson Ranch Dam Discharge, cfs
+
+ark fb = Arrowrock Dam and Reservoir Reservoir Water Surface Elevation, feet
+
+ark af = Arrowrock Dam and Reservoir Reservoir Water Storage, acre-ft
+
+
+
+ DateTime
+ and_fb
+ and_af
+ andi_gh
+ andi_q
+ ark_fb
+ ark_af
+
+ 2019-09-09 02:00 4172.73 311455.00 4.80 1455.56 3106.16 44653.00
+
+ 2019-09-09 03:00 4172.72 311415.00 4.80 1455.56 3106.16 44653.00
+
+ 2019-09-09 04:00 4172.73 311455.00 4.80 1455.56 3106.17 44664.00
+
+ 2019-09-09 05:00 4172.71 311376.00 4.80 1455.56 3106.16 44653.00
+
+ 2019-09-09 06:00 4172.65 311138.00 4.80 1455.56 3106.16 44653.00
+
+ 2019-09-09 07:00 4172.64 311099.00 4.80 1455.56 3106.17 44664.00
+
+ 2019-09-09 08:00 4172.62 311020.00 4.80 1455.56 3106.18 44676.00
+
+ 2019-09-09 09:00 4172.61 310979.00 4.80 1455.56 3106.17 44664.00
+
+ 2019-09-09 10:00 4172.59 310900.00 4.81 1463.73 3106.20 44699.00
+
+ 2019-09-09 11:00 4172.56 310782.00 4.81 1463.73 3106.20 44699.00
+
+ 2019-09-09 12:00 4172.53 310662.00 4.81 1463.73 3106.20 44699.00
+
+
+
+  Boise River Basin Storage and Discharge
+ Provisional Data - Subject to Change
+
+
+luc fb = Lucky Peak Lake near Boise, ID Reservoir Water Surface Elevation, feet
+
+luc af = Lucky Peak Lake near Boise, ID Reservoir Water Storage, acre-ft
+
+luc q = Lucky Peak Lake near Boise, ID Discharge, cfs
+
+bsei ch = New York Canal Diversion from Boise River Canal Gauge Height, feet
+
+bsei qc = New York Canal Diversion from Boise River Canal Discharge, cfs
+
+bigi gh = Boise River at Glenwood Bridge River Water Surface Gauge Height, feet
+
+bigi q = Boise River at Glenwood Bridge Discharge, cfs
+
+bomi gh = Boise River near Middleton, ID River Water Surface Gauge Height, feet
+
+bomi q = Boise River near Middleton, ID Discharge, cfs
+
+
+
+ DateTime
+ luc_fb
+ luc_af
+ luc_q
+ bsei_ch
+ bsei_qc
+ bigi_gh
+ bigi_q
+ bomi_gh
+ bomi_q
+
+ 2019-09-09 02:00 3028.67 196955.81 3379.00 8.81 1883.00 4.66 677.15 0.63 373.20
+
+ 2019-09-09 03:00 3028.64 196883.74 3412.00 8.80 1898.00 4.66 677.15 0.63 373.20
+
+ 2019-09-09 04:00 3028.58 196741.19 3403.00 8.80 1900.00 4.66 677.15 0.62 368.99
+
+ 2019-09-09 05:00 3028.55 196671.11 3430.00 8.81 1896.00 4.67 683.39 0.62 368.99
+
+ 2019-09-09 06:00 3028.50 196552.00 3467.00 8.81 1890.00 4.67 683.39 0.61 364.80
+
+ 2019-09-09 07:00 3028.46 196455.91 3448.00 8.81 1884.00 4.62 652.41 0.59 356.49
+
+ 2019-09-09 08:00 3028.41 196336.79 3416.00 8.81 1884.00 4.66 677.15 0.57 348.28
+
+ 2019-09-09 09:00 3028.36 196218.26 3473.00 8.65 1802.00 4.67 683.39 0.55 340.17
+
+ 2019-09-09 10:00 3028.31 196099.14 3440.00 8.65 1815.00 4.68 689.66 0.54 336.15
+
+ 2019-09-09 11:00 3028.27 196004.05 3373.00 8.63 1827.00 4.69 695.94 0.53 332.15
+
+ 2019-09-09 12:00 998877.00 195837.88 3361.00 8.63 1834.00 4.75 734.10 0.55 340.
+17
+
+ 2019-09-09 13:00 3028.16 195741.80      0.54 336.15
